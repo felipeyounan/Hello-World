@@ -11,3 +11,4 @@ capitais = {"USA":"Washington, DC",
 capitais[c]=d
 
 print(f"A capital de", a, " é ", capitais.get(a))
+
